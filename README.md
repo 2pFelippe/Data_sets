@@ -1,1 +1,1 @@
-This repository contains various codes regarding data set manipulation
+This repository contains various codes regarding dataset manipulation
